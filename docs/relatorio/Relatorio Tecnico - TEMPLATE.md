@@ -1,21 +1,24 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  PELAS AMERICAS ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  CIÊNCIA DA COMPUTAÇÃO ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  MEMBROS ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Gabriel Chagas Lage
+> - Lucas Gentil
+> - João Pedro Cruz
+> - Caio Souza
+> - Gabriel Alves Reis
+> - Pedro Henrique 
+> - Benjamin Doné
 
 # Estrutura do Documento
 
@@ -56,79 +59,48 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  PROBLEMA ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Viajantes que querem planejar melhor suas viagens ou que tem  
+> dificuldades. Até mesmo para alguns bons curiosos....
+
+
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  OBJETIVO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Ajudar viajantes brasileiros a viajarem para outros países dentro da America
+> com mais facilidade
+
 
 ## Justificativa
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> Tentar facilitar a vida dos vianjantes para fora do país
+
 
 ## Público-Alvo
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> Viajantes pela America.
+
+> Jovem, 25 anos, recém formado que deseja fazer um semestre vianjando pelo
+> continente americano.
+
+> Casal de 30 e poucos anos, classe média, afim de realizar uma viagem no fim do ano.
+
+> Empresário de 40 anos, que viaja a trabalho internacionalmente todas as semanas.
+
  
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Projeto será realizado com HTML, CSS, JAVASCRIPT com interrações com algumas API´s como a do mapbox.
+
 
 ## Personas, Empatia e Proposta de Valor
 
