@@ -76,14 +76,14 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  JUSTIFICAVA ......
 
 > Tentar facilitar a vida dos vianjantes para fora do país
 
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  ALVO ......
 
 > Viajantes pela America.
 
@@ -97,20 +97,20 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  ESPECIFICAÇÕES TÉCNINCAS ......
 
 > Projeto será realizado com HTML, CSS, JAVASCRIPT com interrações com algumas API´s como a do mapbox.
 
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  EXEMPLOS ......
 
 
 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Exemplo de Persona](images/persona01.jpeg)
 
 
 > ![Exemplo da Proposta de Valor](images/proposta_valor.png)
@@ -155,7 +155,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+......  INTERFACE ......
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
