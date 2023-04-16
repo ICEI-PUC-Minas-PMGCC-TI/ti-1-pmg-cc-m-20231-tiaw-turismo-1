@@ -295,7 +295,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  CONTROLE DE BRANCHS ......
 
  
 > O projeto segue a seguinte convenção para o nome de branchs:
