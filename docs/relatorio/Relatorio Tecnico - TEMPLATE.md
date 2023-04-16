@@ -146,16 +146,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > funcionais e histórias de usuário abordados nas [Especificações do
 > Projeto](#especificações-do-projeto).
 
-## User Flow
-
-
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
-
 ## Wireframes
 
 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Exemplo de Wireframe](Screenshot 2023-04-16 at 17.04.37.png)
 
 
 # Metodologia
