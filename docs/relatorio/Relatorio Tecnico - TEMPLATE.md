@@ -59,16 +59,11 @@
 
 ## Problema
 
-......  PROBLEMA ......
-
 > Viajantes que querem planejar melhor suas viagens ou que tem  
 > dificuldades. Até mesmo para alguns bons curiosos....
 
 
-
 ## Objetivos
-
-......  OBJETIVO ......
 
 > Ajudar viajantes brasileiros a viajarem para outros países dentro da America
 > com mais facilidade
@@ -76,14 +71,10 @@
 
 ## Justificativa
 
-......  JUSTIFICAVA ......
-
 > Tentar facilitar a vida dos vianjantes para fora do país
 
 
 ## Público-Alvo
-
-......  ALVO ......
 
 > Viajantes pela America.
 
@@ -97,16 +88,10 @@
  
 # Especificações do Projeto
 
-......  ESPECIFICAÇÕES TÉCNINCAS ......
-
 > Projeto será realizado com HTML, CSS, JAVASCRIPT com interrações com algumas API´s como a do mapbox.
 
 
 ## Personas, Empatia e Proposta de Valor
-
-......  EXEMPLOS ......
-
-
 
 > **Exemplo de Persona**
 > 
@@ -156,8 +141,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  INTERFACE ......
-
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
 > funcionais e histórias de usuário abordados nas [Especificações do
@@ -184,9 +167,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  DIVISÕES DE PAPÉIS ......
-
-
 > - Gabriel Chagas Lage - CTO / CIO
 > - Lucas Gentil - COO 
 > - João Pedro Cruz - CTO
@@ -196,8 +176,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - Benjamin Doné - CHRO
 
 ## Ferramentas
-
-......  FERRAMENTAS  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -209,9 +187,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Controle de Versão
-
-......  CONTROLE DE BRANCHS ......
-
  
 > O projeto segue a seguinte convenção para o nome de branchs:
 > 
