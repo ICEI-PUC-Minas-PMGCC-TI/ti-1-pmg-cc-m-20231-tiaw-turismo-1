@@ -160,8 +160,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  TRELLO ......
-
 > - [LINK :] https://trello.com/b/i67xN8LX/tial-turismo-1
 
 
