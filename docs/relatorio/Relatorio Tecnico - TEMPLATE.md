@@ -112,7 +112,7 @@
 > 
 > ![Exemplo de Persona](images/persona01.jpeg)
 
-> **Exemplo de Proposta de Valor*
+> **Exemplo de Proposta de Valor**
 > ![Exemplo da Proposta de Valor](images/proposta_de_valor_01.jpeg)
 
 
