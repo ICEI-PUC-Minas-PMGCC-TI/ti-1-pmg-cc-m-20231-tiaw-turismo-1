@@ -220,14 +220,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  DIVISÕES DE PAPÉIS ......
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
+> **Links Úteis**:
+
+> - Gabriel Chagas Lage - CTO / CIO
+> - Lucas Gentil - COO 
+> - João Pedro Cruz - CTO
+> - Caio Souza - CTO 
+> - Gabriel Alves Reis - CCO
+> - Pedro Henrique - ESTAGIÁRIO
+> - Benjamin Doné - CHRO
 
 ## Ferramentas
 
