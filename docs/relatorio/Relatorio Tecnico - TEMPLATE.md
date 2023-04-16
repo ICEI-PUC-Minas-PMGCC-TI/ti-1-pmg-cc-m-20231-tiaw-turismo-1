@@ -304,10 +304,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - `staging`: versão de desenvolvimento do software
 
 
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
-
 # **############## SPRINT 1 ACABA AQUI #############**
 
 
