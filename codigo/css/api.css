@@ -16,3 +16,15 @@ body, html {
 }
 
 
+.custom-marker {
+    background-color: black;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    margin: -6px -6px 0 0;
+}
+  
+.custom-map {
+    background-color: #ff0000; /* Substitua pelo código de cor desejado */
+  }
+  
