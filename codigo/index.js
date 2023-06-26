@@ -55,13 +55,13 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // america central
     addMarker(map, 21.5218, -77.7812, "Cuba", "CUP", "Peso Cubano", "./paises/cuba.html");
-    addMarker(map, 18.7357, -70.1627, "República Dominicana", "DOP", "Peso Dominicano", "./paises/republica-dominicana.html");
+    addMarker(map, 18.7357, -70.1627, "República Dominicana", "DOP", "Peso Dominicano", "./paises/republicadominicana.html");
     addMarker(map, 15.7835, -90.2308, "Guatemala", "GTQ", "Quetzal Guatemalteco", "./paises/guatemala.html");
     addMarker(map, 18.9712, -72.2852, "Haiti", "HTG", "Gourde Haitiano", "./paises/haiti.html");
     addMarker(map, 15.199999, -86.241905, "Honduras", "HNL", "Lempira Hondurenha", "./paises/honduras.html");
     addMarker(map, 12.8654, -85.2072, "Nicarágua", "NIO", "Córdoba Nicaraguense", "./paises/nicaragua.html");
     addMarker(map, 13.7942, -88.8965, "El Salvador", "USD", "Dólar Americano", "./paises/el-salvador.html");
-    addMarker(map, 9.7489, -83.7534, "Costa Rica", "CRC", "Colón Costa-riquenho", "./paises/costa-rica.html");
+    addMarker(map, 9.7489, -83.7534, "Costa Rica", "CRC", "Colón Costa-riquenho", "./paises/costarica.html");
     addMarker(map, 8.5379, -80.7821, "Panamá", "PAB", "Balboa Panamenho", "./paises/panama.html");
     addMarker(map, 18.1096, -77.2975, "Jamaica", "JMD", "Dólar Jamaicano", "./paises/jamaica.html");
     addMarker(map, 10.6918, -61.2225, "Trinidad e Tobago", "TTD", "Dólar de Trinidad e Tobago", "./paises/trinidad-e-tobago.html");
@@ -79,7 +79,6 @@ document.addEventListener("DOMContentLoaded", function() {
     addMarker(map, 13.7942, -88.8965, "El Salvador", "USD", "Dólar Americano", "./paises/el-salvador.html");
     addMarker(map, 15.199999, -86.241905, "Honduras", "HNL", "Lempira Hondurenha", "./paises/honduras.html");
     addMarker(map, 12.8654, -85.2072, "Nicarágua", "NIO", "Córdoba Nicaraguense", "./paises/nicaragua.html");
-    addMarker(map, 9.7489, -83.7534, "Costa Rica", "CRC", "Colón Costa-riquenho", "./paises/costa-rica.html");
     addMarker(map, 8.5379, -80.7821, "Panamá", "PAB", "Balboa Panamenho", "./paises/panama.html");
 
 
