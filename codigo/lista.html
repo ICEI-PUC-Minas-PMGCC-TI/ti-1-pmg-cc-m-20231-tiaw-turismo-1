@@ -5,82 +5,12 @@
   <title>Lista de Países</title>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="css/lista.css" media="screen" />
-  <style>
-    .search-bar {
-      margin-bottom: 10px;
-    }
-  </style>
-  <script>
-    function search() {
-      var input, filter, ul, li, a, i;
-      input = document.getElementById("searchInput");
-      filter = input.value.toUpperCase();
-      ul = document.getElementsByTagName("ul");
-      for (i = 0; i < ul.length; i++) {
-        li = ul[i].getElementsByTagName("li");
-        for (var j = 0; j < li.length; j++) {
-          a = li[j].getElementsByTagName("a")[0];
-          if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-            li[j].style.display = "";
-          } else {
-            li[j].style.display = "none";
-          }
-        }
-      }
-    }
-  </script>
+ 
+
 </head>
 <body>
-
-  <h1>Lista de Países</h1>
     <h1>Lista de Países</h1>
 
-    <h2>América do Sul</h2>
-    <ul>
-      <li><a href="bra.html">Brasil</a></li>
-      <li><a href="pais.html">Argetina</a></li>
-      <li><a href="pais.html">Chile</a></li>
-      <!-- Adicione mais países da América do Sul conforme necessário -->
-    </ul>
-
-  
-  <div class="search-bar">
-    <input type="text" id="searchInput" onkeyup="search()" placeholder="Pesquisar países...">
-  </div>
-  
-  <h2>América do Sul</h2>
-  <ul>
-    <li><a href="/paises/brasil.html">Brasil</a></li>
-    <li><a href="pais.html">Argentina</a></li>
-    <li><a href="pais.html">Chile</a></li>
-    <!-- Adicione mais países da América do Sul conforme necessário -->
-  </ul>
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 96133731f1225cd2ee7b931828e3bec4cbff9376
-=======
->>>>>>> 96133731f1225cd2ee7b931828e3bec4cbff9376
-  <h2>América do Norte</h2>
-  <ul>
-    <li><a href="pais.html">País 1 - América do Norte</a></li>
-    <li><a href="pais.html">País 2 - América do Norte</a></li>
-    <li><a href="pais.html">País 3 - América do Norte</a></li>
-    <!-- Adicione mais países da América do Norte conforme necessário -->
-  </ul>
-
-  <h2>América Central</h2>
-  <ul>
-    <li><a href="pais.html">País 1 - América Central</a></li>
-    <li><a href="pais.html">País 2 - América Central</a></li>
-    <li><a href="pais.html">País 3 - América Central</a></li>
-    <!-- Adicione mais países da América Central conforme necessário -->
-  </ul>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
     <h2>América do Sul</h2>
     <ul>
       <li><a href="bra.html">Brasil</a></li>
@@ -104,10 +34,5 @@
       <li><a href="pais.html">País 3 - América Central</a></li>
       <!-- Adicione mais países da América Central conforme necessário -->
     </ul>
->>>>>>> 93b81db408f49fea5c3e36559b899deea70c8f94
-=======
->>>>>>> 96133731f1225cd2ee7b931828e3bec4cbff9376
-=======
->>>>>>> 96133731f1225cd2ee7b931828e3bec4cbff9376
 </body>
 </html>
