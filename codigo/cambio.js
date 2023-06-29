@@ -1,5 +1,5 @@
   // Chave da API ExchangeRate-API
-  const apiKey = 'e0b105bdeb078b40d11d4a12';
+  const apiKey = '';
 
   // Referências aos elementos do DOM
   const amountInput = document.getElementById('amount');
