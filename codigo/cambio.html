@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Informações do País</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="../css/cambio.css">
+  <link rel="stylesheet" type="text/css" href="../css/menu.css" media="screen" />
+
+</head>
+<body>
+  <!-- MENU -->
+  <header>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Inicial</a></li>
+        <li><a href="lista.html">Países</a></li>
+        <li><a href="sobre.html">Sobre</a></li>
+        <li><a href="sac.html">SAC</a></li>
+        <li><a href="/cambio.html">Cambio</a></li>
+      </ul>
+    </nav>
+  </header>
+  <p>_</p>
+  <h1>Câmbio</h1>
+
+
+  <section>
+    <h2 class="section-title">Conversor de Moeda</h2>
+    <div class="section-content">
+      <div>
+        <label for="amount">Quantia:</label>
+        <input type="number" id="amount" step="0.01" placeholder="Digite a quantia">
+      </div>
+      <div>
+        <label for="from">De:</label>
+        <select id="from">
+          <option value="BRL">Real (BRL)</option>
+          <option value="USD">Dólar Americano (USD)</option>
+          <option value="ARS">Peso Argentino (ARS)</option>
+          <option value="CLP">Peso Chileno (CLP)</option>
+          <option value="UYU">Peso Uruguaio (UYU)</option>
+          <option value="VES">Bolívar Venezuelano (VES)</option>
+          <option value="PYG">Guarani Paraguaio (PYG)</option>
+          <option value="CAD">Dólar Canadense (CAD)</option>
+        </select>
+      </div>
+      
+      <div>
+        <label for="to">Para:</label>
+        <select id="to">
+          <option value="USD">Dólar Americano (USD)</option>
+          <option value="BRL">Real (BRL)</option>
+          <option value="ARS">Peso Argentino (ARS)</option>
+          <option value="CLP">Peso Chileno (CLP)</option>
+          <option value="UYU">Peso Uruguaio (UYU)</option>
+          <option value="VES">Bolívar Venezuelano (VES)</option>
+          <option value="PYG">Guarani Paraguaio (PYG)</option>
+          <option value="CAD">Dólar Canadense (CAD)</option>
+        </select>
+      </div>
+      <button id="convert-btn">Converter</button>
+      <p id="converted-amount"></p>
+    </div>
+  </section>
+  
+
+  <script src="/cambio.js"></script>
+
+</body>
+</html>
