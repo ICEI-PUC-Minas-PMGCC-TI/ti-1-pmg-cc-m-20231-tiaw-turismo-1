@@ -28,4 +28,18 @@ body, html {
     background-color: #ff0000; /* Substitua pelo código de cor desejado */
   }
   
-  
+@keyframes slide {
+    0% {
+        transform: translateX(1);
+    }
+    70% {
+        transform: translateX(100px);
+    }
+    200% {
+        transform: translateX(0);
+    }
+}
+
+.pelasamericas {
+    animation: slide 3s infinite linear;
+}
