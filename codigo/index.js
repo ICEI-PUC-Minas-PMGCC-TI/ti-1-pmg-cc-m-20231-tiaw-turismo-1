@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
     addMarker(map, 56.1304, -106.3468, "Canadá", "CAD", "Dólar Canadense", "./paises/canada.html");
     addMarker(map, 37.0902, -95.7129, "Estados Unidos", "USD", "Dólar Americano", "./paises/eua.html");
     addMarker(map, 23.6345, -102.5528, "México", "MXN", "Peso Mexicano", "./paises/mexico.html");
-    addMarker(map, 64.2008, -149.4937, "Alasca (EUA)", "USD", "Dólar Americano", "./paises/alasca.html");
+    addMarker(map, 64.2008, -149.4937, "Alasca (EUA)", "USD", "Dólar Americano", "./paises/eua.html");
     
     // america central
     addMarker(map, 21.5218, -77.7812, "Cuba", "CUP", "Peso Cubano", "./paises/cuba.html");
