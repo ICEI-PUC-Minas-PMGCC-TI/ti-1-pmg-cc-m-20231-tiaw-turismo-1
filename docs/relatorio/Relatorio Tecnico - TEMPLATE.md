@@ -192,6 +192,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  PELAS AMERICAS ......
 
+>**Link do Trabalho:** https://tiaw-turismo.gabriel-lagelag.repl.co/index.html
+
 ## Tecnologias Utilizadas
 
 - Para a construção do projeto foram utilizadas o HTML (HyperText Markup Language)
@@ -303,11 +305,6 @@ Grupo de usuários escolhido:
 Ferramentas utilizadas para a avaliação:
 
 . Google forms
-
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
