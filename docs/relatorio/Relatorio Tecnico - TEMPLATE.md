@@ -190,7 +190,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  PELAS AMERICAS ......
 
 ## Tecnologias Utilizadas
 
