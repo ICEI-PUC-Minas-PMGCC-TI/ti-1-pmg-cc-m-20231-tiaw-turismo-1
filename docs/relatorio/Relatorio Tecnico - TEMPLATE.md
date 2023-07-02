@@ -194,33 +194,25 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-Para a construção do projeto foram utilizadas o HTML (HyperText Markup Language)
+- Para a construção do projeto foram utilizadas o HTML (HyperText Markup Language)
 para estruturar o conteúdo da página web. Em conjunto com o html, foi utilizado
 o CSS (Cascading Style Sheets) para controlar a aparência e o layout dos 
 elementos da página web. Por fim, o JavaScript que permite a manipulação do conteúdo HTML,
 interação com o usuário e geração de movimento na aplicação. Além das linguagens de
 programação também foi utilizado apis (Application Programming Interface). 
 
-Gabriel vc entra aqui
+- APIs como: leafletjs, ExchangeRate-API.
 
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/arquitetura.png)
 
 
 # Avaliação da Aplicação
 
-......
 
 Teste de seleção de cidade:
 
@@ -257,14 +249,7 @@ Verificar se as cidades da nova área são exibidas corretamente.
 Selecionar uma cidade diferente.
 Verificar se as informações sobre a nova cidade são exibidas corretamente.
 
-Teste das APIs:
-
-gabriel se vc quiser incluir alguma coisa
- ......
-
 ## Plano de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 Cenários de testes foram selecionados para teste:
 
@@ -320,12 +305,6 @@ Ferramentas utilizadas para a avaliação:
 . Google forms
 
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
@@ -346,11 +325,7 @@ Em relação às falhas detectadas nos testes, é importante documentá-las e pr
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> - [Link API Reference](https://www.exchangerate-api.com)
+> - [Link API Reference](https://unpkg.com/leaflet@1.7.1/dist/leaflet.js)
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - [Link JavaScript Reference](https://github.com/braziljs/eloquente-javascript/blob/master/pdf/livro.pdf)
